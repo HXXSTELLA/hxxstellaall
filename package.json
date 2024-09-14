@@ -1,13 +1,13 @@
 {
-  "name": "hxxstellaallall",
+  "name": "hxxstellaall",
   "version": "1.0.0",
   "productName": "hxxstellaall",
   "description": "Modded Minecraft Launcher",
-  "author": "gotiger (https://github.com/CustomLauncherLab/)",
+  "author": "gotiger (https://github.com/HXXSTELLA/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/hxxstellaall/hxxstellaall",
+  "homepage": "https://github.com/HXXSTELLA/hxxstellaall",
   "bugs": {
-    "url": "https://github.com/hxxstellaall/hxxstellaall/issues"
+    "url": "https://github.com/HXXSTELLA/hxxstellaall/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hxxstellaall/hxxstellaall.git"
+    "url": "git+https://github.com/HXXSTELLA/hxxstellaall.git"
   }
 }
